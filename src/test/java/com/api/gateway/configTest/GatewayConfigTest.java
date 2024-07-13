@@ -1,5 +1,6 @@
-package com.api.gateway.config;
+package com.api.gateway.configTest;
 
+import com.api.gateway.config.GatewayConfig;
 import com.api.gateway.exception.GatewayConfigException;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
