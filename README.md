@@ -12,3 +12,20 @@ Criar um ecossistema de microserviços para gerenciar a inserção e manutençã
 ### Logistica https://github.com/postechfiapgrupo04/ms-gerenciamento-logistica
 ### Pedidos https://github.com/postechfiapgrupo04/ms-gerenciamento-pedidos
 
+## 💻 Pré-requisitos para todos os projetos
+
+Antes de começar, verifique se você atendeu aos seguintes requisitos:
+
+- Java 17
+- Docker
+- Gradle
+
+## 🚀 Instalando ms-logistica
+
+Para instalar os microserviços, siga estas etapas:
+
+- Faça o clone dos repositórios em sua máquina
+- Inicie o Docker local
+- Utilize o IntelliJ para abrir os projetos, após configurado o Java 17, basta atualizar as dependencias para que ele baixe todas e executar o serviço pelo intelliJ. Todos os serviços já estão utilizando a dependência do docker compose para subir de forma automática.
+- Pronto, agora é só iniciar o projeto!
+
