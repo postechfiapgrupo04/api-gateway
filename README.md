@@ -20,7 +20,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 - Docker
 - Gradle
 
-## 🚀 Instalando ms-logistica
+## 🚀 Instalando os Microserviços
 
 Para instalar os microserviços, siga estas etapas:
 
