@@ -42,7 +42,7 @@ public class GatewayConfig {
 					)
 					.route("get_deliverys", r -> r.method(HttpMethod.GET)
 							.and()
-							.path("/delivery/findDeliverys")
+							.path("/delivery/findByOrderId")
 							.uri("http://localhost:8006/")
 					)
 					.route("update_delivery", r -> r.method(HttpMethod.POST)
